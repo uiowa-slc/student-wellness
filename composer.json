@@ -16,7 +16,6 @@
             "dev-master": "5.x-dev"
         },
         "resources-dir": "_resources",
-        
         "project-files-installed": [
             "app/.htaccess",
             "app/_config.php",
