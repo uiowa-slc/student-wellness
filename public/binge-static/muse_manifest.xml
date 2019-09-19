@@ -1,0 +1,944 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://myweb.uiowa.edu/lgodin/bingeonthis" resolutions="1x,2x" timestamp="1568853688058">
+  <folder name="css">
+    <file name="site_global.css" crc="392511508"/>
+    <file name="index.css" crc="279709324" ref="index"/>
+    <file name="nomq_index.css" crc="103487974" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="sueellenfrancisco.woff" crc="127474355"/>
+    <file name="sueellenfrancisco.eot" crc="466012848"/>
+    <file name="sueellenfrancisco.svg" crc="375652659"/>
+    <file name="americantypewriter.woff" crc="3898739591"/>
+    <file name="americantypewriter.eot" crc="14465550"/>
+    <file name="americantypewriter.svg" crc="3894826140"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="binge-on-this-logo-page.jpg" crc="468140359" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="binge-on-this-logo-page_2x.jpg" crc="4276190778" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-19471x23.svg" crc="4087899296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 19471x23_poster_.png" crc="3767679466" ref="index"/>
+    <file name="90 percent beer.jpg" crc="3894627448" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer_2x.jpg" crc="222129689" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent.jpg" crc="31510240" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent_2x.jpg" crc="114232602" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="female-cups.jpg" crc="120596775" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="female-cups_2x.jpg" crc="37279658" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="male-cups.jpg" crc="4217194936" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="male-cups_2x.jpg" crc="3988055694" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="male-cups2.jpg" crc="3988055694" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-89365x90.svg" crc="4051253670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 89365x90_poster_.png" crc="464692721" ref="index"/>
+    <file name="pasted-svg-72118x56.svg" crc="28125152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 72118x56_poster_.png" crc="43935611" ref="index"/>
+    <file name="two cups talking1084x638.jpg" crc="265763980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-beer.jpg" crc="3947281645" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-beer_2x.jpg" crc="3883301977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-79618x122.svg" crc="195082114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 79618x122_poster_.png" crc="389346358" ref="index"/>
+    <file name="pasted-svg-67629x126.svg" crc="3990538591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 67629x126_poster_.png" crc="3961819665" ref="index"/>
+    <file name="pasted-svg-114781x73.svg" crc="3976882767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 114781x73_poster_.png" crc="3800465402" ref="index"/>
+    <file name="pasted-svg-66381x82.svg" crc="403619207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 66381x82_poster_.png" crc="110184976" ref="index"/>
+    <file name="holding-wine-glass.jpg" crc="494329596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-wine-glass_2x.jpg" crc="3932717209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-140101x71.svg" crc="3773985470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 140101x71_poster_.png" crc="117072785" ref="index"/>
+    <file name="pasted-svg-114307x104.svg" crc="4096867764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 114307x104_poster_.png" crc="3793529424" ref="index"/>
+    <file name="pasted-svg-22313x62.svg" crc="111238392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 22313x62_poster_.png" crc="4010645894" ref="index"/>
+    <file name="pasted-svg-114781x732.svg" crc="4033030588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 114781x73_poster_2.png" crc="3995927654" ref="index"/>
+    <file name="holding-shot-glass.jpg" crc="464853490" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-shot-glass_2x.jpg" crc="4117094878" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-138755x95.svg" crc="380256548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 138755x95_poster_.png" crc="4099695163" ref="index"/>
+    <file name="pasted-svg-63884x80.svg" crc="3849887725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 63884x80_poster_.png" crc="519272674" ref="index"/>
+    <file name="pasted-svg-35099x54.svg" crc="435895618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 35099x54_poster_.png" crc="4118834634" ref="index"/>
+    <file name="skeleton-hotspot-gray.jpg" crc="236373417" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-1522x131.svg" crc="198849735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1522x131_poster_.png" crc="97928466" ref="index"/>
+    <file name="pasted-svg-151323x105.svg" crc="185359615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 151323x105_poster_.png" crc="467157449" ref="index"/>
+    <file name="pasted-svg-133762x84.svg" crc="456311435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 133762x84_poster_.png" crc="4124261631" ref="index"/>
+    <file name="pasted-svg-118984x160.svg" crc="316813153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 118984x160_poster_.png" crc="51590341" ref="index"/>
+    <file name="pasted-svg-57407x62.svg" crc="4083721989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 57407x62_poster_.png" crc="4131100236" ref="index"/>
+    <file name="pasted-svg-111105x76.svg" crc="3858507523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 111105x76_poster_.png" crc="3864787601" ref="index"/>
+    <file name="pasted-svg-41832x21.svg" crc="4200280408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 41832x21_poster_.png" crc="4139116424" ref="index"/>
+    <file name="pasted-svg-71063x81.svg" crc="4007004939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 71063x81_poster_.png" crc="3854302426" ref="index"/>
+    <file name="pasted-svg-53296x72.svg" crc="399554733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 53296x72_poster_.png" crc="4118567445" ref="index"/>
+    <file name="pasted-svg-425x21.svg" crc="94659863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 425x21_poster_.png" crc="4252687111" ref="index"/>
+    <file name="seek-immediate-attention.jpg" crc="310878065" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seek-immediate-attention_2x.jpg" crc="170244013" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="two cups talking.jpg" crc="463266631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149.png" crc="4201817802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x.png" crc="257050049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-35766x94.svg" crc="3880369918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 35766x94_poster_.png" crc="186886063" ref="index"/>
+    <file name="car-crash.jpg" crc="463923357" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-crash_2x.jpg" crc="3987853064" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-135074x148.svg" crc="4075816902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 135074x148_poster_.png" crc="489994937" ref="index"/>
+    <file name="pasted-svg-61595x37.svg" crc="162037445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 61595x37_poster_.png" crc="4063771167" ref="index"/>
+    <file name="pasted-svg-48011x63.svg" crc="454047817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 48011x63_poster_.png" crc="111973020" ref="index"/>
+    <file name="you-failed.jpg" crc="3822089010" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="you-failed_2x.jpg" crc="170100762" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-snooze.jpg" crc="390603187" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-snooze_2x.jpg" crc="433145310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-77735x82.svg" crc="3996726256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 77735x82_poster_.png" crc="384696263" ref="index"/>
+    <file name="pasted-svg-208717x110.svg" crc="4228113602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 208717x110_poster_.png" crc="3870695475" ref="index"/>
+    <file name="pasted-svg-35766x942.svg" crc="3880369918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 35766x94_poster_2.png" crc="89991987" ref="index"/>
+    <file name="pasted-svg-11846x14.svg" crc="4252668205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 11846x14_poster_.png" crc="519917193" ref="index"/>
+    <file name="pasted-svg-13005x18.svg" crc="248340201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 13005x18_poster_.png" crc="321015409" ref="index"/>
+    <file name="pasted-svg-119088x119.svg" crc="130013661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 119088x119_poster_.png" crc="4110778989" ref="index"/>
+    <file name="pasted-svg-95104x69.svg" crc="117346444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 95104x69_poster_.png" crc="268341731" ref="index"/>
+    <file name="pasted-svg-78165x84.svg" crc="4127293041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 78165x84_poster_.png" crc="4071791678" ref="index"/>
+    <file name="pasted-svg-53636x76.svg" crc="10140105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 53636x76_poster_.png" crc="3887531000" ref="index"/>
+    <file name="pointing-hands1.jpg" crc="259586715" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pointing-hands1_2x.jpg" crc="3976078179" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-89365x902.svg" crc="4051253670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 89365x90_poster_2.png" crc="4088653594" ref="index"/>
+    <file name="pasted-svg-66381x822.svg" crc="403619207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 66381x82_poster_2.png" crc="3772789442" ref="index"/>
+    <file name="pasted-svg-31359x95.svg" crc="4180213924" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 31359x95_poster_.png" crc="141483444" ref="index"/>
+    <file name="pasted-svg-63884x802.svg" crc="3849887725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 63884x80_poster_2.png" crc="3949071519" ref="index"/>
+    <file name="pointing-hands2.jpg" crc="273904725" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pointing-hands2_2x.jpg" crc="4047013594" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="binge-on-this-logo-page-u8955-fr.jpg" crc="132892539" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr_2x.jpg" crc="4209096630" ref="index"/>
+    <file name="90 percent beer562x675.jpg" crc="257967403" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer562x675_2x.jpg" crc="3973038325" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent424x700.jpg" crc="4223134910" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent424x700_2x.jpg" crc="4122018471" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="male-cups-u9153-fr.jpg" crc="3795231750" ref="index"/>
+    <file name="male-cups-u9153-fr_2x.jpg" crc="376941657" ref="index"/>
+    <file name="two cups talking1010x595.jpg" crc="4188930663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seek-immediate-attention-u8958-fr.jpg" crc="3858661895" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr_2x.jpg" crc="3795159683" ref="index"/>
+    <file name="two cups talking1002x590.jpg" crc="154504858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u91492.png" crc="4005113753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x2.png" crc="421735415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="you-failed-u8961-fr.jpg" crc="4163856279" ref="index"/>
+    <file name="you-failed-u8961-fr_2x.jpg" crc="4230326330" ref="index"/>
+    <file name="holding-snooze-u8962-fr.jpg" crc="3952550194" ref="index"/>
+    <file name="holding-snooze-u8962-fr_2x.jpg" crc="4289690629" ref="index"/>
+    <file name="pointing-hands12.jpg" crc="3976078179" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pointing-hands22.jpg" crc="4047013594" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="binge-on-this-logo-page-u8955-fr2.jpg" crc="3799530719" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr_2x2.jpg" crc="4283942522" ref="index"/>
+    <file name="90 percent beer480x576.jpg" crc="3836468280" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer480x576_2x.jpg" crc="229178660" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent333x550.jpg" crc="126485322" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent333x550_2x.jpg" crc="4098787602" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="female-cups-u9152-fr.jpg" crc="3825760577" ref="index"/>
+    <file name="female-cups-u9152-fr_2x.jpg" crc="364148409" ref="index"/>
+    <file name="male-cups-u9153-fr2.jpg" crc="4256626625" ref="index"/>
+    <file name="male-cups-u9153-fr_2x2.jpg" crc="461082811" ref="index"/>
+    <file name="two cups talking768x452.jpg" crc="150089832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-beer-u8953-fr.jpg" crc="3837717345" ref="index"/>
+    <file name="holding-beer-u8953-fr_2x.jpg" crc="3920660404" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr.jpg" crc="4098485686" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr_2x.jpg" crc="4134389268" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr.jpg" crc="125434393" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr_2x.jpg" crc="4059803150" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr2.jpg" crc="3783872276" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr_2x2.jpg" crc="296192974" ref="index"/>
+    <file name="two cups talking757x446.jpg" crc="4018534484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u91493.png" crc="4218854584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x3.png" crc="266408272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="you-failed-u8961-fr2.jpg" crc="345841602" ref="index"/>
+    <file name="you-failed-u8961-fr_2x2.jpg" crc="294407304" ref="index"/>
+    <file name="holding-snooze-u8962-fr2.jpg" crc="6465727" ref="index"/>
+    <file name="holding-snooze-u8962-fr_2x2.jpg" crc="324360931" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr3.jpg" crc="192731860" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr_2x3.jpg" crc="3778313830" ref="index"/>
+    <file name="90 percent beer375x450.jpg" crc="384340039" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer375x450_2x.jpg" crc="33725424" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent257x425.jpg" crc="58946924" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent257x425_2x.jpg" crc="4273393772" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="female-cups-u9152-fr2.jpg" crc="4162471138" ref="index"/>
+    <file name="female-cups-u9152-fr_2x2.jpg" crc="4144664706" ref="index"/>
+    <file name="male-cups-u9153-fr3.jpg" crc="4139012234" ref="index"/>
+    <file name="male-cups-u9153-fr_2x3.jpg" crc="198483576" ref="index"/>
+    <file name="two cups talking600x353.jpg" crc="154577692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-beer-u8953-fr2.jpg" crc="4272292147" ref="index"/>
+    <file name="holding-beer-u8953-fr_2x2.jpg" crc="4262157782" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr2.jpg" crc="121116849" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr_2x2.jpg" crc="365173726" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr2.jpg" crc="93671770" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr_2x2.jpg" crc="309188488" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr3.jpg" crc="530432" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr_2x3.jpg" crc="71897531" ref="index"/>
+    <file name="knockout cup-crop-u91494.png" crc="3761407552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x4.png" crc="327432366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-crash-u8960-fr.jpg" crc="456949442" ref="index"/>
+    <file name="car-crash-u8960-fr_2x.jpg" crc="4283547772" ref="index"/>
+    <file name="you-failed-u8961-fr3.jpg" crc="4150609062" ref="index"/>
+    <file name="you-failed-u8961-fr_2x3.jpg" crc="119384320" ref="index"/>
+    <file name="holding-snooze-u8962-fr3.jpg" crc="4151492313" ref="index"/>
+    <file name="holding-snooze-u8962-fr_2x3.jpg" crc="178393397" ref="index"/>
+    <file name="pointing-hands1-u9102-fr.jpg" crc="321337575" ref="index"/>
+    <file name="pointing-hands1-u9102-fr_2x.jpg" crc="4122519355" ref="index"/>
+    <file name="pointing-hands2-u9145-fr.jpg" crc="4240748727" ref="index"/>
+    <file name="pointing-hands2-u9145-fr_2x.jpg" crc="373909968" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr4.jpg" crc="265819020" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr_2x4.jpg" crc="203567144" ref="index"/>
+    <file name="90 percent beer259x311.jpg" crc="302726045" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer259x311_2x.jpg" crc="99610404" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent182x301.jpg" crc="175704254" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent182x301_2x.jpg" crc="4211159108" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="two cups talking409x241.jpg" crc="4145740166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="female-cups-u9152-fr3.jpg" crc="441788001" ref="index"/>
+    <file name="female-cups-u9152-fr_2x3.jpg" crc="4169866817" ref="index"/>
+    <file name="male-cups-u9153-fr4.jpg" crc="3859735321" ref="index"/>
+    <file name="male-cups-u9153-fr_2x4.jpg" crc="4248329014" ref="index"/>
+    <file name="holding-beer-u8953-fr3.jpg" crc="367886157" ref="index"/>
+    <file name="holding-beer-u8953-fr_2x3.jpg" crc="347180308" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr3.jpg" crc="90943433" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr_2x3.jpg" crc="460235904" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr3.jpg" crc="4016702175" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr_2x3.jpg" crc="3774449222" ref="index"/>
+    <file name="skeleton-hotspot-gray-u8957-fr.jpg" crc="461066635" ref="index"/>
+    <file name="skeleton-hotspot-gray-u8957-fr_2x.jpg" crc="4083424936" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr4.jpg" crc="4106126089" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr_2x4.jpg" crc="3994874939" ref="index"/>
+    <file name="two cups talking414x244.jpg" crc="4096551387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u91495.png" crc="3798864041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x5.png" crc="4126441166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-crash-u8960-fr2.jpg" crc="4222498177" ref="index"/>
+    <file name="car-crash-u8960-fr_2x2.jpg" crc="374915006" ref="index"/>
+    <file name="you-failed-u8961-fr4.jpg" crc="78266476" ref="index"/>
+    <file name="you-failed-u8961-fr_2x4.jpg" crc="302649496" ref="index"/>
+    <file name="holding-snooze-u8962-fr4.jpg" crc="3967475495" ref="index"/>
+    <file name="holding-snooze-u8962-fr_2x4.jpg" crc="454836223" ref="index"/>
+    <file name="pointing-hands1-u9102-fr2.jpg" crc="196574515" ref="index"/>
+    <file name="pointing-hands1-u9102-fr_2x2.jpg" crc="511189809" ref="index"/>
+    <file name="pointing-hands2-u9145-fr2.jpg" crc="335389651" ref="index"/>
+    <file name="pointing-hands2-u9145-fr_2x2.jpg" crc="3840550175" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr5.jpg" crc="109742416" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr_2x5.jpg" crc="3799530719" ref="index"/>
+    <file name="90 percent beer235x282.jpg" crc="4286421482" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer235x282_2x.jpg" crc="87365659" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent153x253.jpg" crc="254403806" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent153x253_2x.jpg" crc="449490646" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="two cups talking375x221.jpg" crc="3899989003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="female-cups-u9152-fr4.jpg" crc="3967796382" ref="index"/>
+    <file name="female-cups-u9152-fr_2x4.jpg" crc="3812574664" ref="index"/>
+    <file name="male-cups-u9153-fr5.jpg" crc="4267715709" ref="index"/>
+    <file name="male-cups-u9153-fr_2x5.jpg" crc="107301640" ref="index"/>
+    <file name="holding-beer-u8953-fr4.jpg" crc="3880563150" ref="index"/>
+    <file name="holding-beer-u8953-fr_2x4.jpg" crc="3823579107" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr4.jpg" crc="4058827870" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr_2x4.jpg" crc="3933558972" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr4.jpg" crc="4021577477" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr_2x4.jpg" crc="267031944" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr5.jpg" crc="396179796" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr_2x5.jpg" crc="3810888067" ref="index"/>
+    <file name="knockout cup-crop-u91496.png" crc="28253172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x6.png" crc="477506464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-crash-u8960-fr3.jpg" crc="529339989" ref="index"/>
+    <file name="car-crash-u8960-fr_2x3.jpg" crc="423093911" ref="index"/>
+    <file name="you-failed-u8961-fr5.jpg" crc="3976554836" ref="index"/>
+    <file name="you-failed-u8961-fr_2x5.jpg" crc="3982189902" ref="index"/>
+    <file name="holding-snooze-u8962-fr5.jpg" crc="3999367478" ref="index"/>
+    <file name="holding-snooze-u8962-fr_2x5.jpg" crc="137835215" ref="index"/>
+    <file name="pointing-hands1-u9102-fr3.jpg" crc="181803903" ref="index"/>
+    <file name="pointing-hands1-u9102-fr_2x3.jpg" crc="4230452064" ref="index"/>
+    <file name="pointing-hands2-u9145-fr3.jpg" crc="3911404160" ref="index"/>
+    <file name="pointing-hands2-u9145-fr_2x3.jpg" crc="226687960" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr6.jpg" crc="175395915" ref="index"/>
+    <file name="binge-on-this-logo-page-u8955-fr_2x6.jpg" crc="373837568" ref="index"/>
+    <file name="90 percent beer200x240.jpg" crc="4005399824" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="90 percent beer200x240_2x.jpg" crc="3840521640" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass that is 94.7% full"/>
+    </file>
+    <file name="beer-glass-60-percent132x217.jpg" crc="514355287" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="beer-glass-60-percent132x217_2x.jpg" crc="3843880659" seo="true" ref="index">
+      <caption webpage="index" alt="Beer glass 71.5% full"/>
+    </file>
+    <file name="female-cups-u9152-fr_2x5.jpg" crc="4089033352" ref="index"/>
+    <file name="male-cups-u9153-fr6.jpg" crc="126724023" ref="index"/>
+    <file name="male-cups-u9153-fr_2x6.jpg" crc="3762073260" ref="index"/>
+    <file name="two cups talking319x188.jpg" crc="4065740720" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holding-beer-u8953-fr5.jpg" crc="272526757" ref="index"/>
+    <file name="holding-beer-u8953-fr_2x5.jpg" crc="533822983" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr5.jpg" crc="3801960154" ref="index"/>
+    <file name="holding-wine-glass-u8954-fr_2x5.jpg" crc="479271770" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr5.jpg" crc="3850657527" ref="index"/>
+    <file name="holding-shot-glass-u8956-fr_2x5.jpg" crc="3874384586" ref="index"/>
+    <file name="skeleton-hotspot-gray-u8957-fr2.jpg" crc="264242744" ref="index"/>
+    <file name="skeleton-hotspot-gray-u8957-fr_2x2.jpg" crc="4191671579" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr6.jpg" crc="250300069" ref="index"/>
+    <file name="seek-immediate-attention-u8958-fr_2x6.jpg" crc="3995509486" ref="index"/>
+    <file name="knockout cup-crop-u91497.png" crc="4001090524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="knockout cup-crop-u9149_2x7.png" crc="520231607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="two cups talking321x189.jpg" crc="194910547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-crash-u8960-fr4.jpg" crc="206138047" ref="index"/>
+    <file name="car-crash-u8960-fr_2x4.jpg" crc="472120563" ref="index"/>
+    <file name="you-failed-u8961-fr6.jpg" crc="4231412441" ref="index"/>
+    <file name="you-failed-u8961-fr_2x6.jpg" crc="3927284315" ref="index"/>
+    <file name="holding-snooze-u8962-fr6.jpg" crc="4203014093" ref="index"/>
+    <file name="holding-snooze-u8962-fr_2x6.jpg" crc="3986797332" ref="index"/>
+    <file name="pointing-hands1-u9102-fr4.jpg" crc="522239815" ref="index"/>
+    <file name="pointing-hands1-u9102-fr_2x4.jpg" crc="245361563" ref="index"/>
+    <file name="pointing-hands2-u9145-fr4.jpg" crc="4111298520" ref="index"/>
+    <file name="pointing-hands2-u9145-fr_2x4.jpg" crc="529366009" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4073556124" seo="true" mt="1568853639459" redirect="true"/>
+</manifest>

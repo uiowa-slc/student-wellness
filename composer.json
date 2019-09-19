@@ -36,6 +36,7 @@
             "web.config"
         ],
         "expose": [
+            "themes/division-subtheme/binge-infograph",
             "themes/division-subtheme/dist",
             "themes/division-subtheme/css"
         ]
