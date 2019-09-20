@@ -1529,7 +1529,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <!-- m_editable region-id="editable-static-tag-U9105-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
       <div class="textfadeinright clearfix grpelem shared_content" id="u9105-46" data-muse-uid="U9105" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9105-46_content"><!-- content -->
        <ul class="list0 nls-None" id="u9105-3">
-        <li id="u9105-2"><span id="u9105" class="shared_content" data-content-guid="u9105_content">Hold a mix drink/cup instead of consuming alcohol</span></li>
+        <li id="u9105-2"><span id="u9105" class="shared_content" data-content-guid="u9105_content">Hold a mixed drink/cup instead of consuming alcohol</span></li>
        </ul>
        <p id="u9105-4" class="shared_content" data-content-guid="u9105-4_content">&nbsp;</p>
        <ul class="list0 nls-None" id="u9105-7">
