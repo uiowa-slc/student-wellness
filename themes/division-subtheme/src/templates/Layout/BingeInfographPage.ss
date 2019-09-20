@@ -21,6 +21,113 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    .caps{
     text-transform: uppercase;
    }
+   .p-top{
+    display: block;
+    padding-top: 40px;
+   }
+
+   .last-edit{
+    margin-bottom: 24px;
+   }
+
+   p{
+    line-height: inherit;
+    font-size: inherit;
+   }
+
+
+    [data-content-guid="u9172_content"]{
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9172-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9170_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9172-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9169-9_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9179-9_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9154_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9154-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9158_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9158-5_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9159_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9159-5_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8973-4_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8972_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8972-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8975-6_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8971_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8971-8_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8971-10_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8971-12_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9201_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8977_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u8977-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9103_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9103-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9146_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9146-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9172-3_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="u9151-10_content"] {
+      text-transform: uppercase;
+    }
+    [data-content-guid="_content"] {
+      text-transform: uppercase;
+    }
+
+
 
 
 <style>
@@ -34,8 +141,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -58,8 +165,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -82,8 +189,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -106,8 +213,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -130,8 +237,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -154,8 +261,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -178,8 +285,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -202,8 +309,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -226,8 +333,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -250,8 +357,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -274,8 +381,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -301,8 +408,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -325,8 +432,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:2000ms;
-	animation-delay:2000ms;
+  -webkit-animation-delay:2000ms;
+  animation-delay:2000ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -349,8 +456,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -373,8 +480,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -397,8 +504,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -421,8 +528,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -445,8 +552,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -469,8 +576,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:2000ms;
-	animation-delay:2000ms;
+  -webkit-animation-delay:2000ms;
+  animation-delay:2000ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -493,8 +600,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -517,8 +624,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:1000ms;
-	animation-delay:1000ms;
+  -webkit-animation-delay:1000ms;
+  animation-delay:1000ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -541,8 +648,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -565,8 +672,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -589,8 +696,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -613,8 +720,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .animated1 {
   -webkit-animation-duration: 1000ms;
   animation-duration: 1000ms;
-	-webkit-animation-delay:0ms;
-	animation-delay:0ms;
+  -webkit-animation-delay:0ms;
+  animation-delay:0ms;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-iteration-count: 1;
@@ -998,7 +1105,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="museBGSize" id="u8957"><!-- column -->
         <div class="clearfix" id="u8957_align_to_page">
          <!-- m_editable region-id="editable-static-tag-U8974-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-         <div class="clearfix colelem shared_content" id="u8974-4" data-muse-uid="U8974" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u8974-4_content"><!-- content -->
+         <div class="clearfix colelem shared_content p-top" id="u8974-4" data-muse-uid="U8974" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u8974-4_content"><!-- content -->
           <p id="u8974-2"><span id="u8974" class="shared_content" data-content-guid="u8974_content">click on hot spots to learn more...</span></p>
          </div>
          <!-- /m_editable -->
@@ -1235,10 +1342,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9151-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
       <div class="clearfix grpelem shared_content" id="u9151-10" data-muse-uid="U9151" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9151-10_content"><!-- content -->
-       <p id="u9151-2"class="caps">My cup is</p>
-       <p id="u9151-4"class="caps">not my</p>
-       <p id="u9151-6"class="caps">consent</p>
-       <p id="u9151-8"class="caps">RVAP.org</p>
+       <p id="u9151-2">My cup is</p>
+       <p id="u9151-4">not my</p>
+       <p id="u9151-6">consent</p>
+       <p id="u9151-8">RVAP.org</p>
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U14802-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -1390,7 +1497,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <!-- m_editable region-id="editable-static-tag-U9103-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
          <div class="clearfix colelem" id="u9103-6" data-muse-uid="U9103" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
           <p id="u9103-2"><span id="u9103" class="shared_content caps" data-content-guid="u9103_content">Healthy</span></p>
-          <p id="u9103-4"><span id="u9103-3" class="shared_content" data-content-guid="u9103-3_content">Strategies</span></p>
+          <p id="u9103-4"><span id="u9103-3" class="shared_content caps" data-content-guid="u9103-3_content">Strategies</span></p>
          </div>
          <!-- /m_editable -->
          <!-- m_editable region-id="editable-static-tag-U9104-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -1515,7 +1622,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadein clearfix grpelem shared_content" id="u9148-15" data-muse-uid="U9148" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9148-15_content"><!-- content -->
        <p id="u9148-2"><span id="u9148" class="shared_content" data-content-guid="u9148_content">Sources:</span></p>
        <p id="u9148-4"><span id="u9148-3" class="shared_content" data-content-guid="u9148-3_content">NCHA Data</span></p>
-       <p id="u9148-6"><span id="u9148-5" class="shared_content" data-content-guid="u9148-5_content">www.studentwellness.uiowa.edu/resources/ui-health-data/</span></p>
+       <p id="u9148-6"><span id="u9148-5" class="shared_content" data-content-guid="u9148-5_content"><a href="studentwellness.uiowa.edu/resources/ui-health-data/">studentwellness.uiowa.edu/resources/ui-health-data/</a></span></p>
        <p id="u9148-10"><a class="nonblock" href="https://www.niaaa.nih.gov"><span id="u9148-7" class="shared_content" data-content-guid="u9148-7_content">www.niaaa.nih.gov</span></a><span id="u9148-9" class="shared_content" data-content-guid="u9148-9_content">/</span></p>
        <p id="u9148-13"><a class="nonblock" href="https://www.mayoclinic.org"><span id="u9148-11" class="shared_content" data-content-guid="u9148-11_content">www.mayoclinic.org/</span></a></p>
       </div>
