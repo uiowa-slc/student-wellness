@@ -1622,9 +1622,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadein clearfix grpelem shared_content" id="u9148-15" data-muse-uid="U9148" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9148-15_content"><!-- content -->
        <p id="u9148-2"><span id="u9148" class="shared_content" data-content-guid="u9148_content">Sources:</span></p>
        <p id="u9148-4"><span id="u9148-3" class="shared_content" data-content-guid="u9148-3_content">NCHA Data</span></p>
-       <p id="u9148-6"><span id="u9148-5" class="shared_content" data-content-guid="u9148-5_content"><a href="studentwellness.uiowa.edu/resources/ui-health-data/">studentwellness.uiowa.edu/resources/ui-health-data/</a></span></p>
+       <p id="u9148-6"><span id="u9148-5" class="shared_content" data-content-guid="u9148-5_content"><a href="https://studentwellness.uiowa.edu/resources/ui-health-data/">studentwellness.uiowa.edu/resources/ui-health-data/</a></span></p>
        <p id="u9148-10"><a class="nonblock" href="https://www.niaaa.nih.gov"><span id="u9148-7" class="shared_content" data-content-guid="u9148-7_content">www.niaaa.nih.gov</span></a><span id="u9148-9" class="shared_content" data-content-guid="u9148-9_content">/</span></p>
-       <p id="u9148-13"><a class="nonblock" href="https://www.mayoclinic.org"><span id="u9148-11" class="shared_content" data-content-guid="u9148-11_content">www.mayoclinic.org/</span></a></p>
+       <p id="u9148-13"><a class="nonblock" href="https://www.mayoclinic.org"><span id="u9148-11" class="shared_content" data-content-guid="u9148-11_content">www.mayoclinic.org/</span></a>
+
+        <br />
+        <br />
+        <i>Created by UI Alumni Lindsay Godin, MA, MFA.</i>
+       </p>
+
       </div>
       <!-- /m_editable -->
      </div>
