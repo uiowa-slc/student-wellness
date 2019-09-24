@@ -1202,7 +1202,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
             </div>
             <div class="Container invi clearfix grpelem" data-col-pos="5" id="u9054"><!-- column -->
              <div class="clip_frame colelem" id="u20983"><!-- svg -->
-              <img class="svg svg_mar temp_no_img_src" id="u20981" data-orig-src="{$ThemeDir}/binge-infograph/images/pasted-svg-111105x76.svg?crc=3858507523" onload="this.style.height=(this.offsetWidth*187.8237885462555/270.63316582914575)+'px'" alt="" data-mu-svgfallback="images/pasted%20svg%20111105x76_poster_.png?crc=3864787601" data-heightwidthratio="0.6937269372693727" data-image-width="271" data-image-height="188" src="{$ThemeDir}/binge-infograph/images/blank.gif?crc=4208392903"/>
+              <img class="svg svg_mar temp_no_img_src" id="u20981" data-orig-src="{$ThemeDir}/binge-infograph/images/pasted-svg-111105x76.svg?crc=3858507523" style="height: 188px" alt="" data-mu-svgfallback="images/pasted%20svg%20111105x76_poster_.png?crc=3864787601" data-heightwidthratio="0.6937269372693727" data-image-width="271" data-image-height="188" src="{$ThemeDir}/binge-infograph/images/blank.gif?crc=4208392903"/>
              </div>
              <!-- m_editable region-id="editable-static-tag-U9055-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
              <div class="clearfix colelem shared_content" id="u9055-4" data-muse-uid="U9055" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9055-4_content"><!-- content -->
