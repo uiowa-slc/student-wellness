@@ -1619,17 +1619,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9148-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-      <div class="textfadein clearfix grpelem shared_content" id="u9148-15" data-muse-uid="U9148" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9148-15_content"><!-- content -->
+      <div class="textfadein clearfix grpelem shared_content" id="u9148-15" data-muse-uid="U9148" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9148-15_content">
        <p id="u9148-2"><span id="u9148" class="shared_content" data-content-guid="u9148_content">Sources:</span></p>
        <p id="u9148-4"><span id="u9148-3" class="shared_content" data-content-guid="u9148-3_content">NCHA Data</span></p>
        <p id="u9148-6"><span id="u9148-5" class="shared_content" data-content-guid="u9148-5_content"><a href="https://studentwellness.uiowa.edu/resources/ui-health-data/">studentwellness.uiowa.edu/resources/ui-health-data/</a></span></p>
        <p id="u9148-10"><a class="nonblock" href="https://www.niaaa.nih.gov"><span id="u9148-7" class="shared_content" data-content-guid="u9148-7_content">www.niaaa.nih.gov</span></a><span id="u9148-9" class="shared_content" data-content-guid="u9148-9_content">/</span></p>
-       <p id="u9148-13"><a class="nonblock" href="https://www.mayoclinic.org"><span id="u9148-11" class="shared_content" data-content-guid="u9148-11_content">www.mayoclinic.org/</span></a>
-
-        <br />
-        <br />
-        <i>Created by UI Alumni Lindsay Godin, MA, MFA.</i>
+       <p id="u9148-13"><a class="nonblock" href="https://www.mayoclinic.org"><span id="u9148-11" class="shared_content" data-content-guid="u9148-11_content">www.mayoclinic.org/</span></a>  
        </p>
+
 
       </div>
       <!-- /m_editable -->
@@ -6205,6 +6202,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="verticalspacer" data-offset-top="9092" data-content-above-spacer="9091" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
   </div>
+  <p class="text-center" style="font-size: 18px; margin-top: 20px;">
+    <i>Created by UI Alumni Lindsay Godin, MA, MFA.</i>
+  </p>
   <!-- Other scripts -->
   <script src={$ThemeDir}/binge-infograph/scripts/other.js ></script>
   <!-- RequireJS script -->
