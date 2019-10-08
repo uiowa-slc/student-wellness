@@ -1588,7 +1588,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadeinleft clearfix grpelem shared_content" id="u9147-60" data-muse-uid="U9147" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-content-guid="u9147-60_content"><!-- content -->
        <p id="u9147-2"><span id="u9147" class="shared_content" data-content-guid="u9147_content">Student Wellness</span></p>
        <p id="u9147-4"><span id="u9147-3" class="shared_content" data-content-guid="u9147-3_content">319-335-8394</span></p>
-       <p id="u9147-7"><a class="nonblock" href="http://studenthealth.uiowa.edu" target="_blank"><span id="u9147-5" class="shared_content" data-content-guid="u9147-5_content">studentwellness.uiowa.edu</span></a></p>
+       <p id="u9147-7"><a class="nonblock" href="http://studentwellness.uiowa.edu" target="_blank"><span id="u9147-5" class="shared_content" data-content-guid="u9147-5_content">studentwellness.uiowa.edu</span></a></p>
        <p id="u9147-8" class="shared_content" data-content-guid="u9147-8_content">&nbsp;</p>
        <p id="u9147-10"><span id="u9147-9" class="shared_content" data-content-guid="u9147-9_content">University Counseling Service</span></p>
        <p id="u9147-12"><span id="u9147-11" class="shared_content" data-content-guid="u9147-11_content">319-335-7294</span></p>
@@ -2904,7 +2904,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadeinleft clearfix grpelem temp_no_id" data-muse-uid="U9147" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-orig-id="u9147-60"><!-- content -->
        <p class="temp_no_id" data-orig-id="u9147-2"><span class="stats-text placeholder" data-placeholder-for="u9147_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-4"><span class="stats-text placeholder" data-placeholder-for="u9147-3_content"><!-- placeholder node --></span></p>
-       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studenthealth.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
+       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studentwellness.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
        <span class="placeholder" data-placeholder-for="u9147-8_content"><!-- placeholder node --></span>
        <p class="temp_no_id" data-orig-id="u9147-10"><span class="stats-text placeholder" data-placeholder-for="u9147-9_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-12"><span class="stats-text placeholder" data-placeholder-for="u9147-11_content"><!-- placeholder node --></span></p>
@@ -3724,7 +3724,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadeinleft clearfix grpelem temp_no_id" data-muse-uid="U9147" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-orig-id="u9147-60"><!-- content -->
        <p class="temp_no_id" data-orig-id="u9147-2"><span class="stats-text placeholder" data-placeholder-for="u9147_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-4"><span class="stats-text placeholder" data-placeholder-for="u9147-3_content"><!-- placeholder node --></span></p>
-       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studenthealth.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
+       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studentwellness.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
        <span class="placeholder" data-placeholder-for="u9147-8_content"><!-- placeholder node --></span>
        <p class="temp_no_id" data-orig-id="u9147-10"><span class="stats-text placeholder" data-placeholder-for="u9147-9_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-12"><span class="stats-text placeholder" data-placeholder-for="u9147-11_content"><!-- placeholder node --></span></p>
@@ -4545,7 +4545,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadeinleft clearfix grpelem temp_no_id" data-muse-uid="U9147" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-orig-id="u9147-60"><!-- content -->
        <p class="temp_no_id" data-orig-id="u9147-2"><span class="stats-text placeholder" data-placeholder-for="u9147_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-4"><span class="stats-text placeholder" data-placeholder-for="u9147-3_content"><!-- placeholder node --></span></p>
-       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studenthealth.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
+       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studentwellness.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
        <span class="placeholder" data-placeholder-for="u9147-8_content"><!-- placeholder node --></span>
        <p class="temp_no_id" data-orig-id="u9147-10"><span class="stats-text placeholder" data-placeholder-for="u9147-9_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-12"><span class="stats-text placeholder" data-placeholder-for="u9147-11_content"><!-- placeholder node --></span></p>
@@ -5355,7 +5355,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="textfadeinleft clearfix colelem temp_no_id" data-muse-uid="U9147" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-orig-id="u9147-60"><!-- content -->
       <p class="temp_no_id" data-orig-id="u9147-2"><span class="stats-text placeholder" data-placeholder-for="u9147_content"><!-- placeholder node --></span></p>
       <p class="temp_no_id" data-orig-id="u9147-4"><span class="stats-text placeholder" data-placeholder-for="u9147-3_content"><!-- placeholder node --></span></p>
-      <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studenthealth.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
+      <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studentwellness.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
       <span class="placeholder" data-placeholder-for="u9147-8_content"><!-- placeholder node --></span>
       <p class="temp_no_id" data-orig-id="u9147-10"><span class="stats-text placeholder" data-placeholder-for="u9147-9_content"><!-- placeholder node --></span></p>
       <p class="temp_no_id" data-orig-id="u9147-12"><span class="stats-text placeholder" data-placeholder-for="u9147-11_content"><!-- placeholder node --></span></p>
@@ -6158,7 +6158,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="textfadeinleft clearfix grpelem temp_no_id" data-muse-uid="U9147" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-orig-id="u9147-60"><!-- content -->
        <p class="temp_no_id" data-orig-id="u9147-2"><span class="stats-text placeholder" data-placeholder-for="u9147_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-4"><span class="stats-text placeholder" data-placeholder-for="u9147-3_content"><!-- placeholder node --></span></p>
-       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studenthealth.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
+       <p class="temp_no_id" data-orig-id="u9147-7"><a class="nonblock" href="http://studentwellness.uiowa.edu" target="_blank"><span class="stats-text placeholder" data-placeholder-for="u9147-5_content"><!-- placeholder node --></span></a></p>
        <span class="placeholder" data-placeholder-for="u9147-8_content"><!-- placeholder node --></span>
        <p class="temp_no_id" data-orig-id="u9147-10"><span class="stats-text placeholder" data-placeholder-for="u9147-9_content"><!-- placeholder node --></span></p>
        <p class="temp_no_id" data-orig-id="u9147-12"><span class="stats-text placeholder" data-placeholder-for="u9147-11_content"><!-- placeholder node --></span></p>
