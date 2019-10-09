@@ -1609,7 +1609,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p id="u9147-42" class="shared_content" data-content-guid="u9147-42_content"><span id="u9147-41">CommUnity Crisis Services and Food Bank</span></p>
        <p id="u9147-44" class="shared_content" data-content-guid="u9147-44_content"><span id="u9147-43">Crisis Phone/Text: 1-855-325-4296</span></p>
        <p id="u9147-46" class="shared_content" data-content-guid="u9147-46_content"><span id="u9147-45">Local Crisis Line: 319-351-0140</span></p>
-       <p id="u9147-48" class="shared_content" data-content-guid="u9147-48_content"><span id="u9147-47">builtbycommunity.org</span></p>
+       <p id="u9147-48" class="shared_content" data-content-guid="u9147-48_content"><a href="https://builtbycommunity.org"><span id="u9147-47" style="text-decoration: none;">builtbycommunity.org</span></a></p>
        <p id="u9147-49" class="shared_content" data-content-guid="u9147-49_content">&nbsp;</p>
        <p id="u9147-51" class="shared_content" data-content-guid="u9147-51_content">National Suicide Prevention Lifeline</p>
        <p id="u9147-53" class="shared_content" data-content-guid="u9147-53_content">24 Hour Crisis Line:</p>
