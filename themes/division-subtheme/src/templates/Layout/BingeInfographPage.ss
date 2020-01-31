@@ -1606,6 +1606,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p id="u9147-36" class="shared_content" data-content-guid="u9147-36_content">24 Hour Crisis Line: 800-228-1625</p>
        <p id="u9147-39" class="shared_content" data-content-guid="u9147-39_content"><a class="nonblock" href="http://www.rvap.org/home"><span id="u9147-37">rvap.org</span></a></p>
        <p id="u9147-40" class="shared_content" data-content-guid="u9147-40_content">&nbsp;</p>
+       <p id="u9147-58" class="shared_content" data-content-guid="u9147-57_content">Collegiate Recovery Program<br />Email: <a href="mailto:UI-CRP@uiowa.edu">UI-CRP@uiowa.edu</a> <br /><a href="https://vp.studentlife.uiowa.edu/priorities/alcohol-harm-reduction/recovery/">vp.studentlife.uiowa.edu</a></p>
+       <p id="u9147-57" class="shared_content" data-content-guid="u9147-58_content">&nbsp;</p>
        <p id="u9147-42" class="shared_content" data-content-guid="u9147-42_content"><span id="u9147-41">CommUnity Crisis Services and Food Bank</span></p>
        <p id="u9147-44" class="shared_content" data-content-guid="u9147-44_content"><span id="u9147-43">Crisis Phone/Text: 1-855-325-4296</span></p>
        <p id="u9147-46" class="shared_content" data-content-guid="u9147-46_content"><span id="u9147-45">Local Crisis Line: 319-351-0140</span></p>
@@ -1614,8 +1616,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p id="u9147-51" class="shared_content" data-content-guid="u9147-51_content">National Suicide Prevention Lifeline</p>
        <p id="u9147-53" class="shared_content" data-content-guid="u9147-53_content">24 Hour Crisis Line:</p>
        <p id="u9147-56" class="shared_content" data-content-guid="u9147-56_content"><a class="nonblock" href="http://www.suicidepreventionlifeline.org"><span id="u9147-54">suicidepreventionlifeline.org</span></a></p>
-       <p id="u9147-57" class="shared_content" data-content-guid="u9147-57_content">&nbsp;</p>
-       <p id="u9147-58" class="shared_content" data-content-guid="u9147-58_content">&nbsp;</p>
+       
+
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9148-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -2922,6 +2924,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-36_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-39_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-40_content"><!-- placeholder node --></span>
+              <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-42_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-44_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-46_content"><!-- placeholder node --></span>
@@ -2930,8 +2934,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-51_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-53_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-56_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
+
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9148-BP_768" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -3742,6 +3745,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-36_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-39_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-40_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-42_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-44_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-46_content"><!-- placeholder node --></span>
@@ -3750,8 +3755,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-51_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-53_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-56_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
+
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9148-BP_600" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -4563,6 +4567,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-36_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-39_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-40_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-42_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-44_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-46_content"><!-- placeholder node --></span>
@@ -4571,8 +4577,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-51_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-53_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-56_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
+
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9148-BP_414" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -5373,6 +5378,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="placeholder" data-placeholder-for="u9147-36_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-39_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-40_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-42_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-44_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-46_content"><!-- placeholder node --></span>
@@ -5381,8 +5388,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="placeholder" data-placeholder-for="u9147-51_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-53_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u9147-56_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
+
      </div>
      <!-- /m_editable -->
      <!-- m_editable region-id="editable-static-tag-U9148-BP_375" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
@@ -6176,6 +6182,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-36_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-39_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-40_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-42_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-44_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-46_content"><!-- placeholder node --></span>
@@ -6184,8 +6192,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <span class="placeholder" data-placeholder-for="u9147-51_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-53_content"><!-- placeholder node --></span>
        <span class="placeholder" data-placeholder-for="u9147-56_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-57_content"><!-- placeholder node --></span>
-       <span class="placeholder" data-placeholder-for="u9147-58_content"><!-- placeholder node --></span>
+
       </div>
       <!-- /m_editable -->
       <!-- m_editable region-id="editable-static-tag-U9148-BP_320" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
