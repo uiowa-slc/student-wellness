@@ -1976,12 +1976,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/quamsta/silverstripe-api-cacher.git",
-                "reference": "e66df343dbaf2ca9bf6c046c628bc788c51fc623"
+                "reference": "d89a4c1eb4f0b122986d3e9caaa36ff33232e04a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/quamsta/silverstripe-api-cacher/zipball/e66df343dbaf2ca9bf6c046c628bc788c51fc623",
-                "reference": "e66df343dbaf2ca9bf6c046c628bc788c51fc623",
+                "url": "https://api.github.com/repos/quamsta/silverstripe-api-cacher/zipball/d89a4c1eb4f0b122986d3e9caaa36ff33232e04a",
+                "reference": "d89a4c1eb4f0b122986d3e9caaa36ff33232e04a",
                 "shasum": ""
             },
             "require": {
@@ -2021,7 +2021,7 @@
             "keywords": [
                 "silverstripe"
             ],
-            "time": "2020-06-01T20:56:11+00:00"
+            "time": "2020-06-01T21:06:24+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
