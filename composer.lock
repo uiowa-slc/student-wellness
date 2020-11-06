@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9cbe33f645ca6bba1d901bc833d9d93e",
+    "content-hash": "9fe93690585e26a4045c0eb522980acd",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1304,12 +1304,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "d3dfa8e967c61b2e695025f1c5e4a503f3e6b23e"
+                "reference": "1542d6982f6ee9b8db29c8a47ece519accf53a96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/d3dfa8e967c61b2e695025f1c5e4a503f3e6b23e",
-                "reference": "d3dfa8e967c61b2e695025f1c5e4a503f3e6b23e",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/1542d6982f6ee9b8db29c8a47ece519accf53a96",
+                "reference": "1542d6982f6ee9b8db29c8a47ece519accf53a96",
                 "shasum": ""
             },
             "require": {
@@ -1332,7 +1332,7 @@
                 "silverstripe/blog": "*",
                 "silverstripe/googlesitemaps": "*",
                 "silverstripe/recipe-cms": "4.6.*@stable",
-                "silverstripe/recipe-plugin": "^1.3",
+                "silverstripe/recipe-plugin": "^1.2",
                 "silverstripe/sharedraftcontent": "*",
                 "silverstripe/spamprotection": "3.*",
                 "silverstripe/tagfield": "*",
@@ -1358,7 +1358,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-11-04T20:12:06+00:00"
+            "time": "2020-11-06T19:52:52+00:00"
         },
         {
             "name": "md/saml",
